@@ -1,0 +1,23 @@
+Roll NO    NAME                          CRS    Md Ss Fn
+
+BSDSF0M001 Hammad Khan                   ITC    22 21 31
+BSDSF0M001 Hammad Khan                    PF    14 15 25 
+BSDSF0M001 Hammad Khan                   DLD    20 18 22
+BSDSF0M003 Yonus  Ahmad                  ITC    30  0 29
+BSDSF0M003 Yonus  Ahmad                   PF    34 25 15
+BSDSF0M003 Yonus  Ahmad                  DLD    10 15 10
+BSDSF0M002 Fahad  Khan                   ITC    33 20 33
+BSDSF0M002 Fahad  Khan                    PF    26 11 35
+BSDSF0M002 Fahad  Khan                   DLD    30 24 38
+BSSSF0M001 Barkat Jan                    ITC    25 18 34
+BSSEF0M001 Barkat  Jan                    PF    19 0  28
+BSSEF0M001 Barkat Jan                    DLD    28 21 34
+BSITF0M009 Khawar Hayat 		 ITC    11 18 37 
+BSITF0M009 Khawar Hayat 		  PF    19 17 27
+BSITF0M009 Khawar Hayat                  DLD    31 32 34
+BSITF0M003 Kishawar Hameed 		 ITC    24 20 33
+BSITF0M003 Kishawar Hameed                PF    28 34 37
+BSITF0M003 Kishawar Hameed 		 DLD    19 15 26
+BSITF0M010 Yasir Ubaid	                 ITC    18 20 31
+BSITF0M010 Yasir Ubaid                   PF     25 21 34
+BSITF0M010 Yasir Ubaid	                 DLD    29 22 33
